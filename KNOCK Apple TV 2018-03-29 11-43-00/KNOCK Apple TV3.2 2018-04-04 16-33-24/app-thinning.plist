@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>variants</key>
+	<dict>
+		<key>Apps/KNOCK Apple TV3.2-Apple TV 4K.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>2423767</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>2423767</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>6728127</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>6728127</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>AppleTV6,2</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>Apple TV 4K</string>
+			</array>
+		</dict>
+		<key>Apps/KNOCK Apple TV3.2-Apple TV.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>2423241</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>2423241</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>6717503</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>6717503</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>AppleTV5,3</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>Apple TV</string>
+			</array>
+		</dict>
+		<key>Apps/KNOCK Apple TV3.2.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>2423597</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>2423597</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>6728034</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>6728034</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+		</dict>
+	</dict>
+</dict>
+</plist>

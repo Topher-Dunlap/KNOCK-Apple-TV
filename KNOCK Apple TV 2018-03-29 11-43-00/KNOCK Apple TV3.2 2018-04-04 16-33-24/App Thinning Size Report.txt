@@ -1,0 +1,22 @@
+
+App Thinning Size Report for All Variants of KNOCK Apple TV3.2
+
+Variant: KNOCK Apple TV3.2-Apple TV 4K.ipa
+Supported devices: Apple TV 4K
+App + On Demand Resources size: 2.4 MB compressed, 6.7 MB uncompressed
+App size: 2.4 MB compressed, 6.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: KNOCK Apple TV3.2-Apple TV.ipa
+Supported devices: Apple TV
+App + On Demand Resources size: 2.4 MB compressed, 6.7 MB uncompressed
+App size: 2.4 MB compressed, 6.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: KNOCK Apple TV3.2.ipa
+Supported devices: Universal
+App + On Demand Resources size: 2.4 MB compressed, 6.7 MB uncompressed
+App size: 2.4 MB compressed, 6.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
